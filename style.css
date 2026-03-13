@@ -40,10 +40,12 @@ body{
 
 .start {
   justify-content: flex-start; /* this is the flex default,so nothing will change visually */
+  align-items: flex-start;
 }
 
 .end {
   justify-content: flex-end;
+  align-items: flex-end;
 }
 
 .center {
