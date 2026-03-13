@@ -39,11 +39,11 @@ body{
 }
 
 .start {
-
+  justify-content: flex-start; /* this is the flex default,so nothing will change visually */
 }
 
 .end {
-
+  justify-content: flex-end;
 }
 
 .center {
